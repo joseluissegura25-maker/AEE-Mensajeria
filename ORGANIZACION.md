@@ -12,3 +12,4 @@ Describid fielmente qué partes exactas del código Java (métodos, clases o ló
 ## 3. Evidencia del Trabajo Síncrono
 * Insertad aquí una **captura de pantalla** de la videollamada de
 desarrollo,
+![Evidencia trabajo sincrono](image.png)
